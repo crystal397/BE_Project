@@ -8,12 +8,3 @@ public class Book {
     public int page;
     public String isbn;
 }
-
-class Member {
-    public String name;
-    public int age;
-    public String tel;
-    public String mail;
-    public String addr;
-    public float weight;
-}

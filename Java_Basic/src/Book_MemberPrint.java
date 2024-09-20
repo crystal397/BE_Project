@@ -1,4 +1,4 @@
-public class Book_MemberTest {
+public class Book_MemberPrint {
     public static void main(String[] args) {
         // 객체(인스턴스) 생성
         Book b = new Book();
