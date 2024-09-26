@@ -4,6 +4,7 @@
 -> ```Mac``` 에서 git 설치를 위해 0순위 작업
 
 ## git error1
+### 1-1) git clone 후 자바 설정
 ```
 git clone https://github.com/crystal397/BE-Project.git
 ```
@@ -12,6 +13,10 @@ git clone https://github.com/crystal397/BE-Project.git
 그래서!!
 
 **File > Project Structure > Project Settings > Project** 의 경로에서 SDK 부분을 설정하면 된다.
+
+### 1-2) git clone 후 모듈 설정(모듈 인식 안 되는 문제)
+
+**File > Project Structure > Modules > + 버튼 > Import module** 의 경로에서 git clone한 파일을 설정하면 된다.
 
 ## git error2
 
