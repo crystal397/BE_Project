@@ -1,6 +1,16 @@
 # BE_Project
 
-## git error
+## git error1
+```
+git clone https://github.com/crystal397/BE-Project.git
+```
+
+```IntelliJ``` 에서 위 명령어로 깃 클론을 한 경우, 자바가 설정되지 않아 생성한 파일에 대해 실행이 되지 않았다.
+그래서!!
+
+**File > Project Structure > Project Settings > Project** 의 경로에서 SDK 부분을 설정하면 된다.
+
+## git error2
 
 ```
 % git add --all
