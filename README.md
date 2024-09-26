@@ -1,5 +1,8 @@
 # BE_Project
 
+## Homebrew 설치하기
+-> ```Mac``` 에서 git 설치를 위해 0순위 작업
+
 ## git error1
 ```
 git clone https://github.com/crystal397/BE-Project.git
