@@ -1,4 +1,4 @@
-package java.part1;// class -> 새로운 자료형 설계하는 도구(Modeling)
+package java.part2;// class -> 새로운 자료형 설계하는 도구(Modeling)
 
 public class Book {
     public String title;

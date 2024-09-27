@@ -1,4 +1,4 @@
-package java.part2;
+package java.part3;
 
 public class BookDTO {
 }

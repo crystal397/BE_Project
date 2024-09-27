@@ -1,4 +1,4 @@
-package java.part1;
+package java.part2;
 
 public class CharExam {
     public static void main(String[] args) {
