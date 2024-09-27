@@ -1,3 +1,5 @@
+package java.part1;
+
 public class ForLoopTest {
     public static void main(String[] args) {
         for(char c='A';c<='Z';c++){

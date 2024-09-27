@@ -1,3 +1,5 @@
+package java.part1;
+
 public class Member {
     public String name;
     public int age;

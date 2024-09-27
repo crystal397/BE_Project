@@ -1,3 +1,5 @@
+package java.part1;
+
 public class Operator {
     public static void main(String[] args) {
         int kor=77;

@@ -1,3 +1,5 @@
+package java.part1;
+
 public class ObjectArrayTest {
     public static void main(String[] args) {
         Book[] b = new Book[3];

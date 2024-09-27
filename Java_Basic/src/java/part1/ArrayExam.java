@@ -1,3 +1,5 @@
+package java.part1;
+
 public class ArrayExam {
     public static void main(String[] args) {
         int[] a = new int[5];

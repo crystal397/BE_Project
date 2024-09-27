@@ -1,3 +1,5 @@
+package java.part1;
+
 public class FourArithmetic {
     public static void main(String[] args) {
         int a=12;
