@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435e9abf-e173-426d-8439-66c5e0d4506c" name="변경" comment="" />
+    <list default="true" id="435e9abf-e173-426d-8439-66c5e0d4506c" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Java_Basic/src/ForLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Basic/src/GuGuDanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Basic/src/ObjectArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Basic/src/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Basic/src/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/BE_Project/ScannerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/production/BE_Project/ScannerTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,6 +31,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2mYn6DU4OaaMWTejXTPu0D2ZuR7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,34 +49,58 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "advanced.settings",
+    "애플리케이션.ArrayExam.executor": "Run",
     "애플리케이션.CharExam (1).executor": "Run",
-    "애플리케이션.CharExam.executor": "Run"
+    "애플리케이션.CharExam.executor": "Run",
+    "애플리케이션.ForLoopTest.executor": "Run",
+    "애플리케이션.GuGuDanTest.executor": "Run",
+    "애플리케이션.ObjectArrayTest.executor": "Run",
+    "애플리케이션.ScannerTest.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.CharExam (1)">
-    <configuration name="CharExam (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CharExam" />
+  <component name="RunManager" selected="애플리케이션.GuGuDanTest">
+    <configuration name="ArrayExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayExam" />
       <module name="BE_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="ForLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopTest" />
       <module name="BE_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+    <configuration name="GuGuDanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuGuDanTest" />
       <module name="BE_Project" />
-      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectArrayTest" />
+      <module name="BE_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <module name="BE_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.CharExam (1)" />
+        <item itemvalue="애플리케이션.GuGuDanTest" />
+        <item itemvalue="애플리케이션.ForLoopTest" />
+        <item itemvalue="애플리케이션.ScannerTest" />
+        <item itemvalue="애플리케이션.ObjectArrayTest" />
+        <item itemvalue="애플리케이션.ArrayExam" />
       </list>
     </recent_temporary>
   </component>
